@@ -25,3 +25,5 @@ Delete League and all teams inside
 
 @Route("/api/v1/deleteLeague/{name}")
 @Method("DELETE")
+
+Doesn't include JWT authentication!
