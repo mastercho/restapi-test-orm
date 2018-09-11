@@ -27,3 +27,5 @@ Delete League and all teams inside
 @Method("DELETE")
 
 Doesn't include JWT authentication!
+
+Build using Symfony 3.4
